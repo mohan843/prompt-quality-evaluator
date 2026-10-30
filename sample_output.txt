@@ -1,0 +1,4 @@
+$ python evaluator.py "Summarize this article."
+Prompt quality: 0/100 (basic)
+Strengths: None yet
+Suggestions: Add specificity. Add context. Add constraints. Add output format. Add examples.

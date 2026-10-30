@@ -1,0 +1,3 @@
+Summarize this article.
+
+You are a senior data analyst. Given the attached sales context, explain the three largest month-over-month changes for a non-technical manager. Return a markdown table with metric, change, evidence, and one recommended action. Use only the supplied data, keep it under 200 words, and show one example row.
